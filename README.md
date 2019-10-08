@@ -2,4 +2,5 @@
 
 机器学习的一些书
 
-Python for Data Analysis (CN and EN)
+Python for Data Analysis (CN and EN)  
+Algorithms, 4th edition
